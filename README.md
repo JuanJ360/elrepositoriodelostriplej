@@ -30,6 +30,6 @@ Las historias de usuario se documentaron en JIRA Software y se pueden encontrar 
 - `git merge <nombre_rama>`: Fusionar una rama con la rama actual
 
 ## Integrantes del Grupo
-- **Juan Andres Correa** (GitHub: j)
-- **Juan Jose Bolivar** (GitHub: usuario2)
-- **Juan Felipe Borbon** (GitHub: usuario3)
+- **Juan Andres Correa** (GitHub: juancorrea22)
+- **Juan Jose Bolivar** (GitHub: JuanJ360)
+- **Juan Felipe Borbon** (GitHub: jfborbon)
